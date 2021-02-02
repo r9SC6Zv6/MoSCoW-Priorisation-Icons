@@ -3,7 +3,7 @@
 In Jira click on the cog ikon (top right corner) > Issues > Priorities (Menu on the left) > Edit
 You can enter the bellow or anything else you prefer.
 
-#### Must Have
+### Must Have
 
 Icon URL:
 ```
@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/r9SC6Zv6/MoSCoW-Priorisation-Icons/a8c917f8a02
 ```
 Priority Color: ![#cc0000](https://via.placeholder.com/15/cc0000/000000?text=+) `#cc0000`
 
-#### Should Have
+### Should Have
 
 Icon URL:
 ```
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/r9SC6Zv6/MoSCoW-Priorisation-Icons/a8c917f8a02
 ```
 Priority Color: ![#ff9900](https://via.placeholder.com/15/ff9900/000000?text=+) `#ff9900`
 
-#### Could Have
+### Could Have
 
 Icon URL:
 ```
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/r9SC6Zv6/MoSCoW-Priorisation-Icons/a8c917f8a02
 ```
 Priority Color: ![#006600](https://via.placeholder.com/15/006600/000000?text=+) `#006600`
 
-#### Won't Have
+### Won't Have
 
 Icon URL:
 ```
